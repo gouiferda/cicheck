@@ -1,0 +1,5 @@
+email;soufiane.dev7@gmail.com
+autoSendTime;19:10
+autoSendOperation;0
+autoSyncOperation;0
+
